@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\bin\Debug\ArraysAndLists2.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ArraysAndLists2\ArraysAndLists2\obj\Debug\ArraysAndLists2.pdb
