@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\bin\Debug\ConsoleApp6PartAssignment.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ConsoleApp6PartAssignment\ConsoleApp6PartAssignment\obj\Debug\ConsoleApp6PartAssignment.pdb
