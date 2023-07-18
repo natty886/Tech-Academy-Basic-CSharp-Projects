@@ -1,2 +1,7 @@
 C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
 C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
