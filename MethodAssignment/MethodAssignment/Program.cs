@@ -18,10 +18,8 @@ namespace MethodAssignment
             Console.WriteLine("A second number (Not required)");
             int number2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(obj.Math(number1));
-            Console.WriteLine(obj.Math(number2));
-            Console.WriteLine(obj.Math("4"));
-
+            Console.WriteLine(obj.Method1(number1, number2));
+            Console.WriteLine(obj.Method2(number1, number2));
             Console.ReadLine();
         }
     }
