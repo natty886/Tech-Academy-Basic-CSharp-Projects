@@ -8,15 +8,13 @@ namespace MethodAssignment
 {
     class Class1
     {
-        public int Method1(int number1, int number2)
+        //Method that takes two integers as parameters. Make one of them optional.
+        public int Method1(int number1, int number2 = 22)
         {
+            //Math operation and return an integer result
             return number1 + number2;
         }
 
-        public int Method2(int number1, int number2)
-        {
-            return number1 - number2;
-        }
 
     }
 }
