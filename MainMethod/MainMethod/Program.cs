@@ -10,25 +10,13 @@ namespace MainMethod
     {
         static void Main(string[] args)
         {
-            number = Operator.Operator(number: int, decimal, string);
-            Console.WriteLine("What number would you like to do math operations on?");
-            int number = Convert.ToInt32(Console.ReadLine());
+            Operator obj = new Operator();
 
-            for (int i = 0; i < number; i++)
-            {
-                Console.WriteLine(Operator.Operator(number));
-            }
-            Operator.Operator(number);
+            Console.WriteLine(obj.Math(2));
+            Console.WriteLine(obj.Math(3.4m));
+            Console.WriteLine(obj.Math("4"));
+
             Console.ReadLine();
-
-
-
-           
-
-
-
-
-
 
         }
     }

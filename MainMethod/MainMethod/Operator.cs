@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace MainMethod
 {
-    public static class Operator
+    public class Operator
     {
-        public static int Operator(int number)
+        public int Math(int number)
         {
             return number + number;
         }
 
-        public static int Operator(decimal number)
+        public int Math(decimal number)
         {
-            int number = Decimal.ToInt32();
-            return number;
+            int result = Convert.ToInt32(number) + 2;
+            return result;
         }
 
-        public static int Operator(string number)
+        public int Math(string number)
         {
-            int number = Int32.Parse(number);
-            return number;
+            int result = Convert.ToInt32(number);
+            return result;
         }
     }
 }
