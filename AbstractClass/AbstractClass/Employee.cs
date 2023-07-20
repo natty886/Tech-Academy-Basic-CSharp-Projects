@@ -11,8 +11,8 @@ namespace AbstractClass
     {
         // 4. Implement "SayName()" method inside Employee class
         public override void SayName()
-        { 
-        
+        {
+            Console.WriteLine(firstName + "" + lastName);
         }
     }
 }
