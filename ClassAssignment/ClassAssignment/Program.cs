@@ -10,13 +10,25 @@ namespace ClassAssignment
     {
         static void Main(string[] args)
         {
-            Class2 obj = new Class2();
+            // 2. Instantiate the class
+            Class2 class2 = new Class2();
 
+            // 3a. User enters a number
             Console.WriteLine("Enter a number");
-            int DivideByTwo = Convert.ToInt32(Console.ReadLine());
+            int output1 = Convert.ToInt32(Console.ReadLine());
 
-            Class2 Class2 = new Class2();
-            Class2.display(10);
+
+            // 3b. Call the method on that number. 
+            class2.Method1(output1);
+            Console.ReadLine();
+
+            // 5. Overload a method
+            class2.Method3(10, 5);
+            Class2.Method3(10, 5, 3);
+            
+
+ 
+            
 
         }
     }

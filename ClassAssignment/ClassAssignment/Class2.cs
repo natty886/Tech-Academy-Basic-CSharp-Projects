@@ -6,34 +6,35 @@ using System.Threading.Tasks;
 
 namespace ClassAssignment
 {
-    class Class2
+    // 1a. Create Class.
+    public class Class2
     {
-        public void DivideByTwo(int number)
+        // 1b. Create a void method that outputs an integer
+        public void Method1(int output1)
         {
-            int result = number / 2;
-            Console.WriteLine(result);
+            // 1c. Divide data by 2
+            int result = output1 / 2;
+            // 3c. Display output
+            Console.WriteLine(output1 + " divided by 2 is: " + result);
+
+        }
+        // 4. Create a method with output parameters
+        public void Method2(out int parameter1, out int parameter2)
+        {
+            parameter1 = 100;
+            parameter2 = 500;
+        }
+        // 5. Overload a method
+        public void Method3(int num1, int num2)
+        {
+            Console.WriteLine(num1 + num2);
+        }
+        // 6. Declare a class to be static
+        public static void Method3(int num1, int num2, int num3)
+        {
+            Console.WriteLine(num1 * num2 * num3);
         }
 
-        public void GetTwoNumbers(out int firstNumber, out int secondNumber)
-        {
-            firstNumber = 10;
-            secondNumber = 20;
-        }
-
-        public void display()
-        {
-            Console.WriteLine("This is the default display method.");
-        }
-
-        public void display(int a)
-        {
-            Console.WriteLine("This is the display method with one integer parameter.");
-        }
-
-        public void display(string a, string b)
-        {
-            Console.WriteLine("This is the display method with two string parameters.");
-        }
     }
 }
 
