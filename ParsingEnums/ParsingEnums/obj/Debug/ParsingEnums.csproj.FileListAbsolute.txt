@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
