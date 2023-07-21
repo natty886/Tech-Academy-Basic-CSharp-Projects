@@ -51,14 +51,11 @@ namespace LambdaAssignment
 
 
             // 5. Use lambda to make list of all employees with Id greater than 5
-            List<Employee> idsList = new List<Employee>();
+            List<Employee> idsList = employees.Where(i => i.Id > 5).ToList();
 
             foreach (Employee id in idsList)
             {
-                if (id.Id > 5)
-                {
-                    idsList.Add(id);
-                }
+                Console.WriteLine(id.Id);
             }
             Console.ReadLine();
         }
