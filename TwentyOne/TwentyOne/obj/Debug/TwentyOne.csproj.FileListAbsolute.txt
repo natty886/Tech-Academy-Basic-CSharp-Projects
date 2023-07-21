@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
