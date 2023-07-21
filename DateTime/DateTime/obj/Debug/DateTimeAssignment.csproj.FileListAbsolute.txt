@@ -1,0 +1,7 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\bin\Debug\DateTimeAssignment.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\bin\Debug\DateTimeAssignment.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\obj\Debug\DateTimeAssignment.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\DateTime\DateTime\obj\Debug\DateTimeAssignment.pdb
