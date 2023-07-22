@@ -23,10 +23,6 @@ namespace ConstructorAssignment
             Console.WriteLine(askLast);
             string inputLast = Console.ReadLine();
 
-            // 3. Chain two constructors together.
-            MyClass m1 = new MyClass(inputFirst, inputLast);
-            Console.WriteLine();
-
             Console.ReadLine();
         }
     }

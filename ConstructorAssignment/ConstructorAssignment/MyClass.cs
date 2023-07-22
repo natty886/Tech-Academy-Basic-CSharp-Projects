@@ -8,20 +8,22 @@ namespace ConstructorAssignment
 {
     public class MyClass
     {
+        // 3. Chain two constructors together.
+        public string firstName;
+        public string lastName;
 
-        public MyClass()
+        public MyClass() : this("Joey", "Shabadoo")
         {
-            Console.WriteLine("Greetings!");
+        }
+        public MyClass(string firstName) : this(firstName, "Shabadoo")
+        {
+        }
+        public MyClass(string firstName, string lastName) 
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
         }
 
-        public MyClass(string firstName) : this()
-        {
-            Console.WriteLine("inputFirst");
-        }
-
-        public MyClass(string firstName, string lastName) : this()
-        {
-            Console.WriteLine("Nice to meet you, " + firstName + lastName);
-        }
+        MyClass x = new MyClass(), y = new MyClass("Joey", "Jo-Jo");
     }
 }
