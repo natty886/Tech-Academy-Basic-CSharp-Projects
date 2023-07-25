@@ -68,12 +68,12 @@ namespace CarInsurance.Controllers
                     insuree.Quote += 25;
                 }
                 // 1e. If the car's year is before 2000, add $25 to the monthly total
-                if (DateTime.Now.Year - insuree.CarYear <= 2000) 
+                if (insuree.CarYear < 2000) 
                 {
                     insuree.Quote += 25;
                 }
                 // 1f. If the car's year is after 2015, add $25 to the monthly total
-                if (DateTime.Now.Year - insuree.CarYear >= 2015)
+                if (insuree.CarYear > 2015)
                 {
                     insuree.Quote += 25;
                 }
