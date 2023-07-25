@@ -68,12 +68,12 @@ namespace CarInsurance.Controllers
                     insuree.Quote += 25;
                 }
                 // 1e. If the car's year is before 2000, add $25 to the monthly total
-                if (DateTime.Now.Year - insuree.CarYear >= 2000) 
+                if (DateTime.Now.Year - insuree.CarYear <= 2000) 
                 {
                     insuree.Quote += 25;
                 }
                 // 1f. If the car's year is after 2015, add $25 to the monthly total
-                if (DateTime.Now.Year - insuree.CarYear <= 2015)
+                if (DateTime.Now.Year - insuree.CarYear >= 2015)
                 {
                     insuree.Quote += 25;
                 }
@@ -83,7 +83,7 @@ namespace CarInsurance.Controllers
                     insuree.Quote += 25;
                 }
                 // 1h. If the car's Make is a Porsche and its model is a 911 Carrera, add an additional $25 to the price
-                if (insuree.CarMake == "Porche" && insuree.CarModel == "911 Carrera")
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
                 {
                     insuree.Quote += 25;
                 }
@@ -96,12 +96,12 @@ namespace CarInsurance.Controllers
                 // 1j. If the user has ever had a DUI, add 25% to the total
                 if (insuree.DUI == true)
                 {
-                    insuree.Quote += (25 / 100) * insuree.Quote;
+                    insuree.Quote *= 1.25m;
                 }
                 // 1k. If it's full coverage, add 50% to the total
                 if (insuree.CoverageType == true)
                 {
-                    insuree.Quote += (25 / 100) * insuree.Quote;
+                    insuree.Quote *= 1.5m;
                 }
 
                 db.Insurees.Add(insuree);
@@ -130,7 +130,7 @@ namespace CarInsurance.Controllers
         // 3. Add an Admin View for a site administrator to the Insuree Views
         public ActionResult Admin()
         {
-            return View();
+           return View(db.Insurees.ToList());
         }
 
 
