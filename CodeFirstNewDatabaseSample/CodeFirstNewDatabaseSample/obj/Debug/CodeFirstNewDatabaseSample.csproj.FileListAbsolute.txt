@@ -1,0 +1,12 @@
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.AssemblyReference.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\natal\OneDrive\Documents\GitHub\Tech-Academy-Basic-CSharp-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
